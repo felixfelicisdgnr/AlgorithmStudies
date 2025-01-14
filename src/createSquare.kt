@@ -3,7 +3,6 @@ fun main() {
 }
 
 fun createSquare(numberOfSides : Int) {
-
     for (i in 0..<numberOfSides) {
         for (j in 0..<numberOfSides) {
             print("*")
@@ -11,3 +10,5 @@ fun createSquare(numberOfSides : Int) {
         println()
     }
 }
+
+//y =numberOfSides

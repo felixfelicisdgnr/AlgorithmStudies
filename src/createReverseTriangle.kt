@@ -11,4 +11,4 @@ fun createReverseTriangle(numberOfSides : Int){
     }
 }
 
-
+//y=numberOfSides - x

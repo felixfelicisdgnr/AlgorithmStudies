@@ -10,3 +10,5 @@ fun createTriangle(numberOfSides: Int) {
         println()
     }
 }
+
+// y=x+1
